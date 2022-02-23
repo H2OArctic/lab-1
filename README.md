@@ -1,5 +1,5 @@
 # Лабораторная работа № 1
-## Ссылка на код в Google Colab: https://colab.research.google.com/drive/1ZYoyF_x0oyy1w5k2SkbiHn_5Ahfsz1Vc?usp=sharing
+## Ссылка на код в Google Colab: https://colab.research.google.com/drive/1ld7j6JTviIq1-76ua8pv3vf7e5hn5F9C?usp=sharing
 
 ### 1. Сколько всего административных округов в Сан-Франциско?
 
@@ -62,7 +62,7 @@
 35. BAD CHECKS
 
 # Лабораторная работа № 2
-## Ссылка на код в Google Colab: https://colab.research.google.com/drive/1ZYoyF_x0oyy1w5k2SkbiHn_5Ahfsz1Vc?usp=sharing
+## Ссылка на код в Google Colab: https://colab.research.google.com/drive/1nmqY-PME7c74otIix9nDrjzbYKB6I-6k?usp=sharing
 
 ### 1. Что такое анонимная функция Python, как она работает?
 
@@ -78,7 +78,7 @@
 
 ### 4. Для чего в лабораторной работе импортируется библиотека NumPy?
 
-Данная библиотека никак не используется в связи с чем нет необходимости в импортирование.
+Данная библиотека используется для обработки больших многомерных массивов. В данном случае она никак не используется, в связи с чем нет необходимости в импортирование.
 
 ### 5. Как выглядит код удаления столбца Datetime?
 
